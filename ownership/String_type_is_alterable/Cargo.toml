@@ -1,0 +1,6 @@
+[package]
+name = "String_type_is_mutable"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
